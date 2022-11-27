@@ -1,5 +1,5 @@
 # BattleBot App
- A BattleBot which can be controlled from your Android Smartphone with the BattleBot which I developed in kotlin.
+ A BattleBot which can be controlled from your Android Smartphone with the BattleBot App which I developed in kotlin.
 Screen No. 1 for chosing connection to the right Battle Bot.
 Screen No. 2 is a Gambe Boy Controller to controll our Battle Bot.
 
